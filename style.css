@@ -1,0 +1,35 @@
+body {
+    height: 100vh;
+    background-image: url(./imgs/istockphoto-1367759499-170667a.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: bottom;
+    display: flex;
+}
+.parent1 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.parent2 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}.parent3 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+    border: 4px dashed red;
+    height: 300px;
+    width: 300px;
+    background-color: blanchedalmond;
+}
